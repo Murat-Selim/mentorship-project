@@ -40,7 +40,7 @@ The platform is built on a smart contract with the following main features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Murat-Selim/blockchain-mentorship.git
+git clone https://github.com/Murat-Selim/mentorship-project.git
 cd blockchain-mentorship
 ```
 
